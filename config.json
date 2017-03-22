@@ -1,0 +1,20 @@
+{
+  "host":{
+    "ip": "127.0.0.1"
+  , "port": "5000"
+  },
+  "mongoose":{
+    "ip":"127.0.0.1"
+    ,"port":"27017"
+    ,"db":"tars"
+  },
+  "tars":{
+  	"ip":"127.0.0.1"
+  	,"port":"7988"
+  },
+  "body":{
+    "name":"guikipp001",
+    "type":"gui",
+    "sid":"guikipps001"
+  }
+}

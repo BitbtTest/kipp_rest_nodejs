@@ -1,0 +1,29 @@
+[2017-02-04 18:15:20.812] [INFO] normal - begin working!
+[2017-02-04 18:15:20.812] [DEBUG] normal - restserver begin : { Caseinfo: 
+   { name: 'none',
+     type: 'gui',
+     a_class: 'com.agave.model.gui.GuiModelBean' },
+  modelinfo: {},
+  Commondata: 
+   { DBdata: 
+      { type: 'DB',
+        db_rul: '192.168.0.1',
+        db_password: 'qwerty',
+        db_type: 'mysql' },
+     Gui_dfl_Value: 
+      { type: 'gui',
+        url: 'http://www.baidu.com',
+        browsertype: 'firefox',
+        kippsid: [Object] },
+     WaitTime: { type: 'comm', dafult_wtime: '1000', SendTars_space: '1000' },
+     TARS: { type: 'tarsconf', Tarsip: '127.0.0.1', Tarsport: '7988' },
+     KIPPDATA: { type: 'rest', kippsid: 'onekipps001' },
+     ' ': 
+      { type: 'gui',
+        url: 'http://www.baidu.com',
+        browsertype: 'firefox',
+        kippsid: [Object] } },
+  Remotedata: { name: 'noModel', type: 'gui', url: null, keyword: 'open' },
+  Otherdata: {},
+  sid: 'tars_1486203319662_96' }
+[2017-02-04 18:15:20.824] [DEBUG] normal - restserver model : undefined

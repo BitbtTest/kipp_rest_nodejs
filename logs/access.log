@@ -1,0 +1,26 @@
+[2016-11-16 23:49:21.902] [DEBUG] normal - 1479311361901
+[2016-11-16 23:49:21.967] [DEBUG] normal - save dialog:{ name: 'tipp001',
+  type: 'kipp',
+  timestamp: 1479311361901,
+  _id: 582c8001229e634135000001 }
+[2016-11-16 23:50:58.008] [INFO] normal - Say hello:tipp001
+[2016-11-16 23:50:58.018] [DEBUG] normal - 1479311458017
+[2016-11-16 23:50:58.092] [DEBUG] normal - save dialog:{ name: 'tipp001',
+  type: 'kipp',
+  timestamp: 1479311458017,
+  sid: 'kipp1479311458017',
+  _id: 582c80620becdd5035000001 }
+[2016-11-16 23:52:53.526] [INFO] normal - Say hello:tipp001
+[2016-11-16 23:52:53.538] [DEBUG] normal - 1479311573536
+[2016-11-16 23:52:53.630] [DEBUG] normal - save dialog:{ name: 'tipp001',
+  type: 'kipp',
+  timestamp: 1479311573536,
+  sid: 'kipp1479311573536',
+  _id: 582c80d59dbfec6735000001 }
+[2016-11-16 23:58:04.540] [INFO] normal - Say hello:tipp001
+[2016-11-16 23:58:04.551] [DEBUG] normal - 1479311884549
+[2016-11-16 23:58:04.631] [DEBUG] normal - save dialog:{ name: 'tipp001',
+  type: 'kipp',
+  timestamp: 1479311884549,
+  sid: 'kipp1479311884549_10',
+  _id: 582c820cf05d9db935000001 }
